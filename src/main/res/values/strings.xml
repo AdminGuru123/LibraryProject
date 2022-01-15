@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Library Project</string>
+    <string name="welcome_to_our_library">Welcome To Our Library</string>
+    <string name="contacts">Contacts</string>
+</resources>
